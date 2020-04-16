@@ -55,6 +55,11 @@ Caso você não manje de Angular, encorajamos que você nos envie a API. Claro, 
 * Desenvolva
 * Faça o push
 * Envie e-mail sinalizando a entrega para o analista técnico que está te apoiando durante o desenvolvimento
-
-
 * Você possui 4 dias para entregar a atividade.
+
+
+
+
+
+
+
