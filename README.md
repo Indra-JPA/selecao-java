@@ -31,7 +31,7 @@ Caso você não manje de Angular, encorajamos que você nos envie a API. Claro, 
 
 ### Requisitos que devem ser implementados
 
-* Baixe o arquivo 2018-1_CA.csv por meio do link http://www.anp.gov.br/images/dadosabertos/precos/2018-1_CA.csv e crie uma API REST seguindo os tópicos especificados a seguir
+* Baixe o arquivo 2019-1_CA.csv por meio do link http://www.anp.gov.br/arquivos/dadosabertos/2019-1_CA.csv e crie uma API REST seguindo os tópicos especificados a seguir
 * Implemente uma documentação interativa. O acesso a essa URI não requer autenticação
 * Implementar recurso para CRUD de usuários
 * Implementar recurso para CRUD de histórico de preço de combustível
@@ -46,23 +46,15 @@ Caso você não manje de Angular, encorajamos que você nos envie a API. Claro, 
 
 ### Não entregue a atividade sem isso
 
-* Documentação interativa da API
-* Uso do framework Lombok. Afinal, ninguém gosta de classes poluídas
-
-```
-O uso do swagger cairia muito bem aqui
-```
+* Documentação interativa da API com o Swagger, ou
+* Crie as chamadas para a API em uma Collection do Postman e exporte para que possamos realizar as chamadas através dela.
 
 ### Uma vez feito, como entrego o projeto?
 
 * Crie um fork dessa avaliação
 * Desenvolva
-* Envie e-mail para dmoreira@indracompany.com, gsavio@indracompany.com sinalizando a entrega
-* Você possui 3 dias para entregar a atividade. Que comecem os jogos :-)
+* Faça o push
+* Envie e-mail sinalizando a entrega para o analista técnico que está te apoiando durante o desenvolvimento
 
 
-### O que me desclassificaria automaticamente?
-
-* Commitar sem seguir as regras dos tópicos anteriores
-* Sua aplicação não subir
-* Não entregar a atividade dentro do prazo estabelecido
+* Você possui 4 dias para entregar a atividade.
